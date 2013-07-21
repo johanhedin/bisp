@@ -12,10 +12,10 @@ Build
 ====
 Checkout and build the RPM like this:
 
-$ git clone https://github.com/johanhedin/bisp
-$ cd bisp
-$ make
-$ sudo yum install RPMS/i686/bisp-4.19.1.11663-1.fc17.i686.rpm
+    $ git clone https://github.com/johanhedin/bisp
+    $ cd bisp
+    $ make
+    $ sudo yum install RPMS/i686/bisp-4.19.1.11663-1.fc17.i686.rpm
 
 The actual name of the RPM depends on the current version of bisp and
 your distribution.
